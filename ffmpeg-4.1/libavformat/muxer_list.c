@@ -1,0 +1,17 @@
+static const AVOutputFormat * const muxer_list[] = {
+    &ff_dnxhd_muxer,
+    &ff_flac_muxer,
+    &ff_flv_muxer,
+    &ff_gif_muxer,
+    &ff_image2_muxer,
+    &ff_matroska_muxer,
+    &ff_mov_muxer,
+    &ff_mp3_muxer,
+    &ff_mp4_muxer,
+    &ff_ogg_muxer,
+    &ff_opus_muxer,
+    &ff_srt_muxer,
+    &ff_wav_muxer,
+    &ff_webm_muxer,
+    &ff_webvtt_muxer,
+    NULL };

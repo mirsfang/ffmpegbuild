@@ -1,0 +1,120 @@
+libSYS/src/genericStds.lo: libSYS/src/genericStds.cpp \
+ /Users/liuxiaohu/Android_Ndk/android-ndk-r14b/platforms/android-21/arch-x86_64/usr/include/math.h \
+ /Users/liuxiaohu/Android_Ndk/android-ndk-r14b/platforms/android-21/arch-x86_64/usr/include/sys/cdefs.h \
+ /Users/liuxiaohu/Android_Ndk/android-ndk-r14b/platforms/android-21/arch-x86_64/usr/include/sys/cdefs_elf.h \
+ /Users/liuxiaohu/Android_Ndk/android-ndk-r14b/platforms/android-21/arch-x86_64/usr/include/android/api-level.h \
+ /Users/liuxiaohu/Android_Ndk/android-ndk-r14b/toolchains/x86_64-4.9/prebuilt/darwin-x86_64/lib/gcc/x86_64-linux-android/4.9.x/include-fixed/limits.h \
+ /Users/liuxiaohu/Android_Ndk/android-ndk-r14b/toolchains/x86_64-4.9/prebuilt/darwin-x86_64/lib/gcc/x86_64-linux-android/4.9.x/include-fixed/syslimits.h \
+ /Users/liuxiaohu/Android_Ndk/android-ndk-r14b/platforms/android-21/arch-x86_64/usr/include/limits.h \
+ /Users/liuxiaohu/Android_Ndk/android-ndk-r14b/platforms/android-21/arch-x86_64/usr/include/sys/limits.h \
+ /Users/liuxiaohu/Android_Ndk/android-ndk-r14b/platforms/android-21/arch-x86_64/usr/include/linux/limits.h \
+ /Users/liuxiaohu/Android_Ndk/android-ndk-r14b/platforms/android-21/arch-x86_64/usr/include/sys/syslimits.h \
+ libSYS/include/genericStds.h libSYS/include/machine_type.h \
+ /Users/liuxiaohu/Android_Ndk/android-ndk-r14b/platforms/android-21/arch-x86_64/usr/include/assert.h \
+ /Users/liuxiaohu/Android_Ndk/android-ndk-r14b/platforms/android-21/arch-x86_64/usr/include/stdlib.h \
+ /Users/liuxiaohu/Android_Ndk/android-ndk-r14b/toolchains/x86_64-4.9/prebuilt/darwin-x86_64/lib/gcc/x86_64-linux-android/4.9.x/include/stddef.h \
+ /Users/liuxiaohu/Android_Ndk/android-ndk-r14b/platforms/android-21/arch-x86_64/usr/include/string.h \
+ /Users/liuxiaohu/Android_Ndk/android-ndk-r14b/platforms/android-21/arch-x86_64/usr/include/malloc.h \
+ /Users/liuxiaohu/Android_Ndk/android-ndk-r14b/platforms/android-21/arch-x86_64/usr/include/xlocale.h \
+ /Users/liuxiaohu/Android_Ndk/android-ndk-r14b/platforms/android-21/arch-x86_64/usr/include/alloca.h \
+ /Users/liuxiaohu/Android_Ndk/android-ndk-r14b/platforms/android-21/arch-x86_64/usr/include/strings.h \
+ /Users/liuxiaohu/Android_Ndk/android-ndk-r14b/platforms/android-21/arch-x86_64/usr/include/sys/types.h \
+ /Users/liuxiaohu/Android_Ndk/android-ndk-r14b/toolchains/x86_64-4.9/prebuilt/darwin-x86_64/lib/gcc/x86_64-linux-android/4.9.x/include/stdint.h \
+ /Users/liuxiaohu/Android_Ndk/android-ndk-r14b/platforms/android-21/arch-x86_64/usr/include/stdint.h \
+ /Users/liuxiaohu/Android_Ndk/android-ndk-r14b/platforms/android-21/arch-x86_64/usr/include/machine/wchar_limits.h \
+ /Users/liuxiaohu/Android_Ndk/android-ndk-r14b/platforms/android-21/arch-x86_64/usr/include/linux/types.h \
+ /Users/liuxiaohu/Android_Ndk/android-ndk-r14b/platforms/android-21/arch-x86_64/usr/include/asm/types.h \
+ /Users/liuxiaohu/Android_Ndk/android-ndk-r14b/platforms/android-21/arch-x86_64/usr/include/asm-generic/types.h \
+ /Users/liuxiaohu/Android_Ndk/android-ndk-r14b/platforms/android-21/arch-x86_64/usr/include/asm-generic/int-ll64.h \
+ /Users/liuxiaohu/Android_Ndk/android-ndk-r14b/platforms/android-21/arch-x86_64/usr/include/asm/bitsperlong.h \
+ /Users/liuxiaohu/Android_Ndk/android-ndk-r14b/platforms/android-21/arch-x86_64/usr/include/asm-generic/bitsperlong.h \
+ /Users/liuxiaohu/Android_Ndk/android-ndk-r14b/platforms/android-21/arch-x86_64/usr/include/linux/posix_types.h \
+ /Users/liuxiaohu/Android_Ndk/android-ndk-r14b/platforms/android-21/arch-x86_64/usr/include/linux/stddef.h \
+ /Users/liuxiaohu/Android_Ndk/android-ndk-r14b/platforms/android-21/arch-x86_64/usr/include/linux/compiler.h \
+ /Users/liuxiaohu/Android_Ndk/android-ndk-r14b/platforms/android-21/arch-x86_64/usr/include/asm/posix_types.h \
+ /Users/liuxiaohu/Android_Ndk/android-ndk-r14b/platforms/android-21/arch-x86_64/usr/include/asm/posix_types_64.h \
+ /Users/liuxiaohu/Android_Ndk/android-ndk-r14b/platforms/android-21/arch-x86_64/usr/include/asm-generic/posix_types.h \
+ /Users/liuxiaohu/Android_Ndk/android-ndk-r14b/platforms/android-21/arch-x86_64/usr/include/sys/sysmacros.h \
+ /Users/liuxiaohu/Android_Ndk/android-ndk-r14b/platforms/android-21/arch-x86_64/usr/include/memory.h \
+ /Users/liuxiaohu/Android_Ndk/android-ndk-r14b/platforms/android-21/arch-x86_64/usr/include/stdio.h \
+ /Users/liuxiaohu/Android_Ndk/android-ndk-r14b/toolchains/x86_64-4.9/prebuilt/darwin-x86_64/lib/gcc/x86_64-linux-android/4.9.x/include/stdarg.h
+
+/Users/liuxiaohu/Android_Ndk/android-ndk-r14b/platforms/android-21/arch-x86_64/usr/include/math.h:
+
+/Users/liuxiaohu/Android_Ndk/android-ndk-r14b/platforms/android-21/arch-x86_64/usr/include/sys/cdefs.h:
+
+/Users/liuxiaohu/Android_Ndk/android-ndk-r14b/platforms/android-21/arch-x86_64/usr/include/sys/cdefs_elf.h:
+
+/Users/liuxiaohu/Android_Ndk/android-ndk-r14b/platforms/android-21/arch-x86_64/usr/include/android/api-level.h:
+
+/Users/liuxiaohu/Android_Ndk/android-ndk-r14b/toolchains/x86_64-4.9/prebuilt/darwin-x86_64/lib/gcc/x86_64-linux-android/4.9.x/include-fixed/limits.h:
+
+/Users/liuxiaohu/Android_Ndk/android-ndk-r14b/toolchains/x86_64-4.9/prebuilt/darwin-x86_64/lib/gcc/x86_64-linux-android/4.9.x/include-fixed/syslimits.h:
+
+/Users/liuxiaohu/Android_Ndk/android-ndk-r14b/platforms/android-21/arch-x86_64/usr/include/limits.h:
+
+/Users/liuxiaohu/Android_Ndk/android-ndk-r14b/platforms/android-21/arch-x86_64/usr/include/sys/limits.h:
+
+/Users/liuxiaohu/Android_Ndk/android-ndk-r14b/platforms/android-21/arch-x86_64/usr/include/linux/limits.h:
+
+/Users/liuxiaohu/Android_Ndk/android-ndk-r14b/platforms/android-21/arch-x86_64/usr/include/sys/syslimits.h:
+
+libSYS/include/genericStds.h:
+
+libSYS/include/machine_type.h:
+
+/Users/liuxiaohu/Android_Ndk/android-ndk-r14b/platforms/android-21/arch-x86_64/usr/include/assert.h:
+
+/Users/liuxiaohu/Android_Ndk/android-ndk-r14b/platforms/android-21/arch-x86_64/usr/include/stdlib.h:
+
+/Users/liuxiaohu/Android_Ndk/android-ndk-r14b/toolchains/x86_64-4.9/prebuilt/darwin-x86_64/lib/gcc/x86_64-linux-android/4.9.x/include/stddef.h:
+
+/Users/liuxiaohu/Android_Ndk/android-ndk-r14b/platforms/android-21/arch-x86_64/usr/include/string.h:
+
+/Users/liuxiaohu/Android_Ndk/android-ndk-r14b/platforms/android-21/arch-x86_64/usr/include/malloc.h:
+
+/Users/liuxiaohu/Android_Ndk/android-ndk-r14b/platforms/android-21/arch-x86_64/usr/include/xlocale.h:
+
+/Users/liuxiaohu/Android_Ndk/android-ndk-r14b/platforms/android-21/arch-x86_64/usr/include/alloca.h:
+
+/Users/liuxiaohu/Android_Ndk/android-ndk-r14b/platforms/android-21/arch-x86_64/usr/include/strings.h:
+
+/Users/liuxiaohu/Android_Ndk/android-ndk-r14b/platforms/android-21/arch-x86_64/usr/include/sys/types.h:
+
+/Users/liuxiaohu/Android_Ndk/android-ndk-r14b/toolchains/x86_64-4.9/prebuilt/darwin-x86_64/lib/gcc/x86_64-linux-android/4.9.x/include/stdint.h:
+
+/Users/liuxiaohu/Android_Ndk/android-ndk-r14b/platforms/android-21/arch-x86_64/usr/include/stdint.h:
+
+/Users/liuxiaohu/Android_Ndk/android-ndk-r14b/platforms/android-21/arch-x86_64/usr/include/machine/wchar_limits.h:
+
+/Users/liuxiaohu/Android_Ndk/android-ndk-r14b/platforms/android-21/arch-x86_64/usr/include/linux/types.h:
+
+/Users/liuxiaohu/Android_Ndk/android-ndk-r14b/platforms/android-21/arch-x86_64/usr/include/asm/types.h:
+
+/Users/liuxiaohu/Android_Ndk/android-ndk-r14b/platforms/android-21/arch-x86_64/usr/include/asm-generic/types.h:
+
+/Users/liuxiaohu/Android_Ndk/android-ndk-r14b/platforms/android-21/arch-x86_64/usr/include/asm-generic/int-ll64.h:
+
+/Users/liuxiaohu/Android_Ndk/android-ndk-r14b/platforms/android-21/arch-x86_64/usr/include/asm/bitsperlong.h:
+
+/Users/liuxiaohu/Android_Ndk/android-ndk-r14b/platforms/android-21/arch-x86_64/usr/include/asm-generic/bitsperlong.h:
+
+/Users/liuxiaohu/Android_Ndk/android-ndk-r14b/platforms/android-21/arch-x86_64/usr/include/linux/posix_types.h:
+
+/Users/liuxiaohu/Android_Ndk/android-ndk-r14b/platforms/android-21/arch-x86_64/usr/include/linux/stddef.h:
+
+/Users/liuxiaohu/Android_Ndk/android-ndk-r14b/platforms/android-21/arch-x86_64/usr/include/linux/compiler.h:
+
+/Users/liuxiaohu/Android_Ndk/android-ndk-r14b/platforms/android-21/arch-x86_64/usr/include/asm/posix_types.h:
+
+/Users/liuxiaohu/Android_Ndk/android-ndk-r14b/platforms/android-21/arch-x86_64/usr/include/asm/posix_types_64.h:
+
+/Users/liuxiaohu/Android_Ndk/android-ndk-r14b/platforms/android-21/arch-x86_64/usr/include/asm-generic/posix_types.h:
+
+/Users/liuxiaohu/Android_Ndk/android-ndk-r14b/platforms/android-21/arch-x86_64/usr/include/sys/sysmacros.h:
+
+/Users/liuxiaohu/Android_Ndk/android-ndk-r14b/platforms/android-21/arch-x86_64/usr/include/memory.h:
+
+/Users/liuxiaohu/Android_Ndk/android-ndk-r14b/platforms/android-21/arch-x86_64/usr/include/stdio.h:
+
+/Users/liuxiaohu/Android_Ndk/android-ndk-r14b/toolchains/x86_64-4.9/prebuilt/darwin-x86_64/lib/gcc/x86_64-linux-android/4.9.x/include/stdarg.h:

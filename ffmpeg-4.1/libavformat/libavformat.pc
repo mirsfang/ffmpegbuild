@@ -1,0 +1,14 @@
+prefix=/Users/liuxiaohu/Work/ffmpegbuild/build/x86_64
+exec_prefix=${prefix}
+libdir=/Users/liuxiaohu/Work/ffmpegbuild/build/x86_64/lib
+includedir=/Users/liuxiaohu/Work/ffmpegbuild/build/x86_64/include
+
+Name: libavformat
+Description: FFmpeg container format library
+Version: 58.20.100
+Requires: libavcodec >= 58.35.100, libavutil >= 56.22.100
+Requires.private: 
+Conflicts:
+Libs: -L${libdir}  -lavformat -lm -lz
+Libs.private: 
+Cflags: -I${includedir}
